@@ -1,0 +1,25 @@
+# The **Ideal Code Challenge** Manifesto
+Justin Mullin, 2017
+
+*Because if we're not following a manifesto, what **are** we doing?*
+
+A good code challenge is a powerful thing. It can stir up useful discussion amongst dev teams, train lateral thinking skills, provide a platform for exercising new development techniques, improve familiarity with a new language or technology, and certainly not least, it can be a remarkably energizing diversion from day-to-day development. Building a good code challenge is not so easy, however. The metric of success we consider most fruitful is participation, and sadly the majority of code challenges in our experience have not landed significant participation.
+
+We believe that there are several issues that plague the average code challenge and cause it to be poorly received, and thus characterized by a lack of participation and enthusiasm. We've identified a set of criteria by which a potential code challenge can be evaluated, which we believe are key to producing a challenge which avoids these pitfalls, maximizing participation and stirring up the enthusiasm of participants.
+
+The focus of this manifesto is on small to medium sized challenges which can be completed by a single individual over the span of about a week, working only in a bit of their spare time.
+
+They are as follows:
+
+## Minimum Barrier to Entry
+The more time that is required to produce *any* sort of submission for a challenge, the more potential participants will simply not have that time available. Participation in a challenge is valuable even if it's a very basic submission, and participants should be encouraged to go for a minimal submission if they are short on time. Keeping the most basic submission as small as possible combats non-participation due to lack of time.
+
+One good way to push in this direction is to do the groundwork for participants; implement any boilerplate, such as serialization/deserialization or API communication. Participants may choose to forego your starting point and build their own, but offering the possibility of skipping the "boring bits" can give busy participants a big head start. The gold standard for this is to provide a template submission that requires something like 0-5 minutes of tweaks to get to a submittable state.
+## Clear and Unambiguous Specification
+Code challenge participants can bounce off of a challenge specification if it is even *perceived* as too complicated or difficult for them to successfully participate. In particular, if a potential participant doesn't understand the goal of the challenge after a first reading, they may choose to pass rather than invest the time just to understand the actual scope. The specification for a code challenge should therefore not only be appropriately scoped in difficulty and time commitment, but also laid out in a simple and straightforward manner, so as not to discourage would-be participants by sending the wrong impression.
+## Engaging Presentation
+There are often many other things competing for your participants' development-oriented free time. Your challenge generally has to be more immediately engaging than that competition. Flash and polish are good ways to accomplish that goal. There are lots of ways to go about that: layer a challenge with themed flavor, add some game elements or opportunities for direct competition, or include a nice visualizer or some graphical element. A really interesting algorithms problem or a problem-solving exercise that immediately gets minds spinning are also great ways to accomplish this, though they can be time consuming to come up with.
+## High Ceiling for Mastery and Creativity
+Just as important as minimizing the barrier to entry is maximizing the possibility for a participant to pour their energy into the challenge. An open ended problem statement can get participants thinking about how they might solve the problem in their own way. Often the most motivating thing for a participant can be a neat idea for a unique solution, even if it entails a bit more time than they'd otherwise want to spend. Ideally there should be no perfect solution to the problem at hand, so all participants will need to get creative to try to solve it the best they can. Introducing some optimization element to a problem can be one way to accomplish this, such as code golf rules, or judging based on fastest execution time.
+## Low Effort to Implement
+Time commitment for participants isn't the only limited resource; you, the challenge creator, are also likely strapped for time and energy. Prioritizing challenge ideas which are easy to implement, roll out, and judge is important to make sure something gets out the door. A half-baked implementation or specification due to a time crunch is a fairly certain recipe for disaster, and if you don't have the time to create any challenge at all you're guaranteed zero participants.
